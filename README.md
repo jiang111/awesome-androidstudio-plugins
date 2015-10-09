@@ -1,7 +1,8 @@
 # awesome-androidstudio-plugins
 收集Android studio 常用的插件
 
-###1. android-butterknife-zeleznyandroid-butterknife-zelezny 是根据butterknife定制的一款插件，能够方便快速初始化，对于我来说是开发必备，本人也对此插件进行了一些优化，个人感觉用起来更爽.
+###1. android-butterknife-zeleznyandroid-butterknife-zelezny 
+是根据butterknife定制的一款插件，能够方便快速初始化，对于我来说是开发必备，本人也对此插件进行了一些优化，个人感觉用起来更爽.
 ![butter knife](http://upload-images.jianshu.io/upload_images/697635-94ed27edf930afce?imageMogr2/auto-orient/strip)
 
 ###2. Android  Drawable Importer
