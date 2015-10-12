@@ -56,10 +56,15 @@ Strings-xml-tools是一个虽小但很有用的插件，可以用来管理Androi
 可用于快速定位代码，看到许多编辑器都有这功能，就到想到android Studio找了下，还真找到了
 ![](http://upload-images.jianshu.io/upload_images/697635-0450282604ad3e48.gif?imageMogr2/auto-orient/strip)
 
+###13.Android Studio Prettify
+帮助自定完成fnidviewbyid的操作。
+![](https://camo.githubusercontent.com/0aafce84883fbaaeac02b28ccad0d839cbab9da4/687474703a2f2f706c7567696e732e6a6574627261696e732e636f6d2f66696c65732f373430352f73637265656e73686f745f31343431352e706e67)
+![](https://camo.githubusercontent.com/171b89ab6aba75116c93fd74f93c342988a63f17/687474703a2f2f706c7567696e732e6a6574627261696e732e636f6d2f66696c65732f373430352f73637265656e73686f745f31343431382e706e67)
 
-###摘自：
+###摘自：(部分地址)
 >* http://www.jianshu.com/p/6f5f818afe4b
 >* http://www.codeceo.com/article/8-android-studio-plugins.html
+>* 
 
 
 
