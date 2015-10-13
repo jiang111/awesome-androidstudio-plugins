@@ -66,6 +66,12 @@ Strings-xml-tools是一个虽小但很有用的插件，可以用来管理Androi
 ![](https://github.com/jiang111/awesome-androidstudio-plugins/blob/master/images/parcelable/android%20p1.png)
 ![](https://github.com/jiang111/awesome-androidstudio-plugins/blob/master/images/parcelable/android%20p2.png)
 ![](https://github.com/jiang111/awesome-androidstudio-plugins/blob/master/images/parcelable/android%20p3.png)
+
+###15.Android Code Generator Plugin.gif
+自动生成findViewById
+![](https://github.com/jiang111/awesome-androidstudio-plugins/blob/master/images/Code Generator Plugin/Code%20Generator%20Plugin.gif)
+
+
 ###摘自：(部分地址)
 >* http://www.jianshu.com/p/6f5f818afe4b
 >* http://www.codeceo.com/article/8-android-studio-plugins.html
