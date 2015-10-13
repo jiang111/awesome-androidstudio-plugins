@@ -61,6 +61,10 @@ Strings-xml-tools是一个虽小但很有用的插件，可以用来管理Androi
 ![](https://camo.githubusercontent.com/0aafce84883fbaaeac02b28ccad0d839cbab9da4/687474703a2f2f706c7567696e732e6a6574627261696e732e636f6d2f66696c65732f373430352f73637265656e73686f745f31343431352e706e67)
 ![](https://camo.githubusercontent.com/171b89ab6aba75116c93fd74f93c342988a63f17/687474703a2f2f706c7567696e732e6a6574627261696e732e636f6d2f66696c65732f373430352f73637265656e73686f745f31343431382e706e67)
 
+###14.Android Parcelable code generator
+帮助实体bean生成
+![]()
+
 ###摘自：(部分地址)
 >* http://www.jianshu.com/p/6f5f818afe4b
 >* http://www.codeceo.com/article/8-android-studio-plugins.html
