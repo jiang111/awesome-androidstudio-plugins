@@ -63,11 +63,9 @@ Strings-xml-tools是一个虽小但很有用的插件，可以用来管理Androi
 
 ###14.Android Parcelable code generator
 帮助实体bean生成Parcelable接口<br/>
-![](https://github.com/jiang111/awesome-androidstudio-plugins/blob/master/images/parcelable/android%20p1.png)
-![](https://github.com/jiang111/awesome-androidstudio-plugins/blob/master/images/parcelable/android%20p2.png)
-![](https://github.com/jiang111/awesome-androidstudio-plugins/blob/master/images/parcelable/android%20p3.png)
+![](https://github.com/jiang111/awesome-androidstudio-plugins/blob/master/images/parcelable/android%20p1.gif)
 
-###15.Android Code Generator Plugin.gif
+###15.Android Code Generator Plugin
 自动生成findViewById
 ![](https://github.com/jiang111/awesome-androidstudio-plugins/blob/master/images/Code Generator Plugin/Code%20Generator%20Plugin.gif)
 
