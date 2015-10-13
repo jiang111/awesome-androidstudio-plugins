@@ -63,7 +63,6 @@ Strings-xml-tools是一个虽小但很有用的插件，可以用来管理Androi
 
 ###14.Android Parcelable code generator
 帮助实体bean生成
-![](https://github.com/jiang111/awesome-androidstudio-plugins/blob/master/images/Android%20Parcelable.gif)
 
 ###摘自：(部分地址)
 >* http://www.jianshu.com/p/6f5f818afe4b
