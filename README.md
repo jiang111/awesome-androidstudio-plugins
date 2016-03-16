@@ -1,6 +1,8 @@
 # awesome-androidstudio-plugins
 收集Android studio 常用的插件
 
+收集大家常用的一些Android代码,看这里:https://github.com/jiang111/awesome-android-tips/blob/master/README.md
+
 ###1. android-butterknife-zeleznyandroid-butterknife-zelezny 
 是根据butterknife定制的一款插件，能够方便快速初始化，对于我来说是开发必备
 ![butter knife](http://upload-images.jianshu.io/upload_images/697635-94ed27edf930afce?imageMogr2/auto-orient/strip)
