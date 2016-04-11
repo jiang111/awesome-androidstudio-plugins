@@ -71,6 +71,9 @@ Strings-xml-tools是一个虽小但很有用的插件，可以用来管理Androi
 自动生成findViewById
 ![](https://github.com/jiang111/awesome-androidstudio-plugins/blob/master/images/Code%20Generator/Code%20Generator%20Plugin.gif)
 
+###16. Adb Idea
+快速设置run APP的运行方式
+![](https://github.com/jiang111/awesome-androidstudio-plugins/blob/master/images/adbidea/adbidea.gif)
 
 ###摘自：(部分地址)
 >* http://www.jianshu.com/p/6f5f818afe4b
