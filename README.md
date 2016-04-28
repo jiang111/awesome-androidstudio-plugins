@@ -85,6 +85,10 @@ CheckStyle-IDEA 是一个检查代码风格的插件，比如像命名约定，J
 ###19.Findbugs
 Findbugs 是一个分析代码中可能有隐患代码的工具。它会扫描项目中的源码，通过一些通用规则去判断可能潜在的一些问题，比如性能，多线程安全等等。而且不仅仅指出错误，而且还会给你一些建议供你参考。这个更像是Java 中使用的，当然在Android 中一样也可以使用，在Android 中，官方和第三方也有很多好工具来分析代码的可能出现的性能问题。
 
+###20.MultiMarkdown
+github项目地址: https://github.com/vsch/idea-multimarkdown/wiki 
+![](https://github.com/vsch/idea-multimarkdown/raw/master/assets/images/ScreenShot_preview.png)
+
 ###摘自：(部分地址)
 >* http://www.jianshu.com/p/6f5f818afe4b
 >* http://www.codeceo.com/article/8-android-studio-plugins.html
