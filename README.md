@@ -89,6 +89,10 @@ Findbugs 是一个分析代码中可能有隐患代码的工具。它会扫描�
 github项目地址: https://github.com/vsch/idea-multimarkdown/wiki 
 ![](https://github.com/vsch/idea-multimarkdown/raw/master/assets/images/ScreenShot_preview.png)
 
+###21.FindViewByMe
+FindViewByMe是一个自动生成FindViewById代码的IDEA/Android Studio插件，支持Activity、Fragment和ViewHolder中的findViewById的代码生成。
+项目地址:https://github.com/laobie/FindViewByMe
+
 ###摘自：(部分地址)
 >* http://www.jianshu.com/p/6f5f818afe4b
 >* http://www.codeceo.com/article/8-android-studio-plugins.html
