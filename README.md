@@ -75,10 +75,6 @@ Strings-xml-tools是一个虽小但很有用的插件，可以用来管理Androi
 快速设置run APP的运行方式
 ![](https://github.com/jiang111/awesome-androidstudio-plugins/blob/master/images/adbidea/adbidea.gif)
 
-### 17. CodeGlance
-可用于快速定位代码
-![](https://github.com/jiang111/awesome-androidstudio-plugins/blob/master/images/codeg.jpg)
-
 ###17. .ignore
 我们都知道在Git 中想要过滤掉一些不想提交的文件，可以把相应的文件添加到.gitignore 中，而.gitignore 这个Android Studio 插件根据不同的语言来选择模板，就不用自己在费事添加一些文件了，而且还有自动补全功能，过滤文件再也不要复制文件名了。我们做项目的时候，并不是所有文件都是要提交的，比如构建的build 文件夹，本地配置文件，每个Module 生成的iml 文件，但是我们每次add，commit 都会不小心把它们添加上去，而gitignore 就是解决这种痛点的，如果你不想提交的文件，就可以在创建项目的时候将这个文件中添加即可，将一些通用的东西屏蔽掉。
 ![](http://img.blog.csdn.net/20160408103956132)
@@ -96,6 +92,10 @@ github项目地址: https://github.com/vsch/idea-multimarkdown/wiki
 ###21.FindViewByMe
 FindViewByMe是一个自动生成FindViewById代码的IDEA/Android Studio插件，支持Activity、Fragment和ViewHolder中的findViewById的代码生成。
 项目地址:https://github.com/laobie/FindViewByMe
+
+### 22 . CodeGlance
+可用于快速定位代码
+![](https://github.com/jiang111/awesome-androidstudio-plugins/blob/master/images/codeg.jpg)
 
 ###摘自：(部分地址)
 >* http://www.jianshu.com/p/6f5f818afe4b
