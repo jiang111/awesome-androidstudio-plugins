@@ -75,10 +75,13 @@ Strings-xml-tools是一个虽小但很有用的插件，可以用来管理Androi
 快速设置run APP的运行方式
 ![](https://github.com/jiang111/awesome-androidstudio-plugins/blob/master/images/adbidea/adbidea.gif)
 
+### 17. CodeGlance
+可用于快速定位代码
+![](https://github.com/jiang111/awesome-androidstudio-plugins/blob/master/images/codeg.jpg)
+
 ###摘自：(部分地址)
 >* http://www.jianshu.com/p/6f5f818afe4b
 >* http://www.codeceo.com/article/8-android-studio-plugins.html
->* 
 
 
 
