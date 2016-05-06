@@ -94,8 +94,8 @@ FindViewByMe是一个自动生成FindViewById代码的IDEA/Android Studio插件�
 项目地址:https://github.com/laobie/FindViewByMe
 
 ### 22 . CodeGlance
-可用于快速定位代码
-![](https://github.com/jiang111/awesome-androidstudio-plugins/blob/master/images/codeg.jpg)
+可用于快速定位代码 <br />
+![](https://github.com/jiang111/awesome-androidstudio-plugins/blob/master/images/codeg.png)
 
 ###摘自：(部分地址)
 >* http://www.jianshu.com/p/6f5f818afe4b
