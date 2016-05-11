@@ -103,13 +103,15 @@ FindViewByMe是一个自动生成FindViewById代码的IDEA/Android Studio插件�
 
 ### 23.Android Code Generator
 根据布局文件快速生成对应的Activity，Fragment，Adapter，Menu。 <br />
+![](https://raw.githubusercontent.com/jiang111/awesome-androidstudio-plugins/master/images/AndroidMethodsCount.gif)
 
 ### 24.Android Methods Count
 统计Android依赖库中方法的总个数。 (一个dex只能接受的65K并不是指方法数超过65K而报的错,而是指引用计数超过65K,请知悉)
+![](https://raw.githubusercontent.com/jiang111/awesome-androidstudio-plugins/master/images/android_code_generator.gif)
 
 ### 25.Android Drawable Importer
 这是一个非常强大的图片导入插件。它导入Android图标与Material图标的Drawable ，批量导入Drawable ，多源导入Drawable（即导入某张图片各种dpi对应的图片） 
-
+![](https://raw.githubusercontent.com/jiang111/awesome-androidstudio-plugins/master/images/AndroidDrawableImporter.png)
 
 ###摘自：(部分地址)
 >* http://www.jianshu.com/p/6f5f818afe4b
