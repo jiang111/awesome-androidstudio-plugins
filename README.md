@@ -113,6 +113,11 @@ FindViewByMe是一个自动生成FindViewById代码的IDEA/Android Studio插件�
 这是一个非常强大的图片导入插件。它导入Android图标与Material图标的Drawable ，批量导入Drawable ，多源导入Drawable（即导入某张图片各种dpi对应的图片） 
 ![](https://raw.githubusercontent.com/jiang111/awesome-androidstudio-plugins/master/images/AndroidDrawableImporter.png)
 
+### 26.permissions-dispatcher-plugin
+PermissionsDispatcher is wonderful library for Runtime Permissions
+![](https://github.com/shiraji/permissions-dispatcher-plugin/raw/master/website/images/pd.gif)
+https://github.com/shiraji/permissions-dispatcher-plugin
+
 ###摘自：(部分地址)
 >* http://www.jianshu.com/p/6f5f818afe4b
 >* http://www.codeceo.com/article/8-android-studio-plugins.html
