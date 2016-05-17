@@ -118,6 +118,11 @@ PermissionsDispatcher is wonderful library for Runtime Permissions
 ![](https://github.com/shiraji/permissions-dispatcher-plugin/raw/master/website/images/pd.gif)
 https://github.com/shiraji/permissions-dispatcher-plugin
 
+### 27.ECTranslation
+Android Studio 翻译插件,可以将英文翻译为中文.
+![](https://github.com/Skykai521/ECTranslation/raw/master/img/translation_img.png)
+https://github.com/Skykai521/ECTranslation
+
 ###摘自：(部分地址)
 >* http://www.jianshu.com/p/6f5f818afe4b
 >* http://www.codeceo.com/article/8-android-studio-plugins.html
