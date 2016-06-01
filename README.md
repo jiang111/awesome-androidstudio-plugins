@@ -123,6 +123,10 @@ Android Studio 翻译插件,可以将英文翻译为中文.
 ![](https://github.com/Skykai521/ECTranslation/raw/master/img/translation_img.png)
 https://github.com/Skykai521/ECTranslation
 
+### 18.eventbus3-intellij-plugin
+在订阅者和post的代码之间切换
+![](https://raw.githubusercontent.com/kgmyshin/eventbus3-intellij-plugin/master/art/cap.gif)
+
 ###摘自：(部分地址)
 >* http://www.jianshu.com/p/6f5f818afe4b
 >* http://www.codeceo.com/article/8-android-studio-plugins.html
