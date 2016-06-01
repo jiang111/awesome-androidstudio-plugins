@@ -125,7 +125,7 @@ https://github.com/Skykai521/ECTranslation
 
 ### 28.eventbus3-intellij-plugin
 在订阅者和post的代码之间切换 <br />
-![查看项目](https://github.com/kgmyshin/eventbus3-intellij-plugin)  <br />
+项目地址: https://github.com/kgmyshin/eventbus3-intellij-plugin  <br />
 ![](https://raw.githubusercontent.com/kgmyshin/eventbus3-intellij-plugin/master/art/cap.gif)
 
 ###摘自：(部分地址)
