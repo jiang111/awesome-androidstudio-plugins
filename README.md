@@ -122,6 +122,12 @@ https://github.com/Skykai521/ECTranslation
 项目地址: https://github.com/kgmyshin/eventbus3-intellij-plugin  <br />
 ![](https://raw.githubusercontent.com/kgmyshin/eventbus3-intellij-plugin/master/art/cap.gif)
 
+### 29.jetbrains-wakatime
+记录你在IDE上的工作时间
+![](https://camo.githubusercontent.com/0263e365a2efdb5dc0adb4b7aba6a783bc17a92e/68747470733a2f2f77616b6174696d652e636f6d2f7374617469632f696d672f53637265656e53686f74732f53637265656e2d53686f742d323031362d30332d32312e706e67)
+https://github.com/wakatime/jetbrains-wakatime
+
+
 ###摘自：(部分地址)
 >* http://www.jianshu.com/p/6f5f818afe4b
 >* http://www.codeceo.com/article/8-android-studio-plugins.html
