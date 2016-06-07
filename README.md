@@ -91,28 +91,28 @@ github项目地址: https://github.com/vsch/idea-multimarkdown/wiki
 FindViewByMe是一个自动生成FindViewById代码的IDEA/Android Studio插件，支持Activity、Fragment和ViewHolder中的findViewById的代码生成。
 项目地址:https://github.com/laobie/FindViewByMe
 
-### 22 . CodeGlance
+###22 . CodeGlance
 可用于快速定位代码 <br />
 ![](https://github.com/jiang111/awesome-androidstudio-plugins/blob/master/images/codeg.png)
 
-### 23.Android Code Generator
+###23.Android Code Generator
 根据布局文件快速生成对应的Activity，Fragment，Adapter，Menu。 <br />
 ![](https://raw.githubusercontent.com/jiang111/awesome-androidstudio-plugins/master/images/android_code_generator.gif)
 
-### 24.Android Methods Count
+###24.Android Methods Count
 统计Android依赖库中方法的总个数。 (一个dex只能接受的65K并不是指方法数超过65K而报的错,而是指引用计数超过65K,请知悉)
 ![](https://raw.githubusercontent.com/jiang111/awesome-androidstudio-plugins/master/images/AndroidMethodsCount.gif)
 
-### 25.Android Drawable Importer
+###25.Android Drawable Importer
 这是一个非常强大的图片导入插件。它导入Android图标与Material图标的Drawable ，批量导入Drawable ，多源导入Drawable（即导入某张图片各种dpi对应的图片） 
 ![](https://raw.githubusercontent.com/jiang111/awesome-androidstudio-plugins/master/images/AndroidDrawableImporter.png)
 
-### 26.permissions-dispatcher-plugin
+###26.permissions-dispatcher-plugin
 PermissionsDispatcher is wonderful library for Runtime Permissions
 ![](https://github.com/shiraji/permissions-dispatcher-plugin/raw/master/website/images/pd.gif)
 https://github.com/shiraji/permissions-dispatcher-plugin
 
-### 27.ECTranslation
+###27.ECTranslation
 Android Studio 翻译插件,可以将英文翻译为中文.
 ![](https://github.com/Skykai521/ECTranslation/raw/master/img/translation_img.png)
 https://github.com/Skykai521/ECTranslation
@@ -127,6 +127,17 @@ https://github.com/Skykai521/ECTranslation
 ![](https://camo.githubusercontent.com/0263e365a2efdb5dc0adb4b7aba6a783bc17a92e/68747470733a2f2f77616b6174696d652e636f6d2f7374617469632f696d672f53637265656e53686f74732f53637265656e2d53686f742d323031362d30332d32312e706e67)
 https://github.com/wakatime/jetbrains-wakatime
 
+###30.Genymotion
+这个就不用说了吧。
+https://www.genymotion.com/
+
+###31.Robotium Recorder
+Robotium 自动化测试脚本录制工具
+http://robotium.com/
+
+###32.AndroidWiFiADB
+可以通过这个插件来达到无线调试应用的目的，摆脱数据线
+https://github.com/pedrovgs/AndroidWiFiADB
 
 ###摘自：(部分地址)
 >* http://www.jianshu.com/p/6f5f818afe4b
@@ -136,21 +147,13 @@ https://github.com/wakatime/jetbrains-wakatime
 
 
 ###推荐
-
 >* 收集Android你不知道的那些小技巧:https://github.com/jiang111/awesome-android-tips
-
 >* 收集Android studio 常用的插件,请看这里:https://github.com/jiang111/awesome-androidstudio-plugins
-
 >* 收集程序员必备的那些Chrome插件: https://github.com/jiang111/chrome-plugin-recommand
-
 >* 通过RecyclerView实现的联系人: https://github.com/jiang111/IndexRecyclerView
-
 >* 用于学习RxJava操作符的APP: https://github.com/jiang111/RxJavaApp
-
 >* 展示注册进度的view: https://github.com/jiang111/ProgressView
-
 >* 可定制的ViewPagerIndicator: https://github.com/jiang111/ScalableTabIndicator
-
 >* 通过viewpager的滑动来对fragment内的元素进行动画操作: https://github.com/jiang111/ViewPagerTransformer
 
 
