@@ -146,6 +146,11 @@ https://github.com/pedrovgs/AndroidWiFiADB
 >* https://segmentfault.com/a/1190000005092842?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
 
 
+###个人微信公众号:
+微信号:androidesigner <br />
+![](https://raw.githubusercontent.com/jiang111/wechat_article/master/qrcode.jpg)
+
+
 ###推荐
 >* 收集Android你不知道的那些小技巧:https://github.com/jiang111/awesome-android-tips
 >* 收集Android studio 常用的插件,请看这里:https://github.com/jiang111/awesome-androidstudio-plugins
