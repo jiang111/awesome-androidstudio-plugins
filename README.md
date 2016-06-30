@@ -139,12 +139,30 @@ http://robotium.com/
 可以通过这个插件来达到无线调试应用的目的，摆脱数据线
 https://github.com/pedrovgs/AndroidWiFiADB
 
+###33.EventBus 导航插件
+![](https://raw.githubusercontent.com/kgmyshin/eventbus-intellij-plugin/master/art/cap.gif)
+https://github.com/kgmyshin/eventbus-intellij-plugin
+
+###34.GenerateSerialVersionUID
+实现Serializable序列化bean
+
+###35.GradleDependenciesHelperPlugin
+maven gradle 依赖支持自动补全
+![](https://camo.githubusercontent.com/d9b1b39eda21e0e33b656e2821f01897d915f7c5/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f2d51364e7970315864594c772f556a73325a5175666634492f414141414141414144624d2f624d704c516742664d6b632f773538372d683330392d6e6f2f696465615f677261646c655f706c7567696e2e706e67)
+https://github.com/ligi/GradleDependenciesHelperPlugin
+
+###36.AndroidProguardPlugin
+一键生成项目混淆代码插件，值得你安装~(不过目前可能有些第三方项目的混淆还未添加完全)
+![](https://camo.githubusercontent.com/adef227c0dc014f53b6e2a46977ef9ff2ceeb5a4/687474703a2f2f3778726e6b6f2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f616e64726f696470726f6775617264312e676966)
+https://github.com/zhonghanwen/AndroidProguardPlugin
+
+
 ###摘自：(部分地址)
 >* http://www.jianshu.com/p/6f5f818afe4b
 >* http://www.codeceo.com/article/8-android-studio-plugins.html
 >* http://blog.csdn.net/tikitoo/article/details/51089422
 >* https://segmentfault.com/a/1190000005092842?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
-
+>* https://ydmmocoo.github.io/2016/06/28/Android-Studio%E6%8F%92%E4%BB%B6%E6%95%B4%E7%90%86/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
 
 ###个人微信公众号:
 微信号:androidesigner <br />
