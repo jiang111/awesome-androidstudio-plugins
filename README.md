@@ -104,43 +104,43 @@ FindViewByMe是一个自动生成FindViewById代码的IDEA/Android Studio插件�
 ![](https://raw.githubusercontent.com/jiang111/awesome-androidstudio-plugins/master/images/AndroidMethodsCount.gif)
 
 ###25.Android Drawable Importer
-这是一个非常强大的图片导入插件。它导入Android图标与Material图标的Drawable ，批量导入Drawable ，多源导入Drawable（即导入某张图片各种dpi对应的图片） 
+这是一个非常强大的图片导入插件。它导入Android图标与Material图标的Drawable ，批量导入Drawable ，多源导入Drawable（即导入某张图片各种dpi对应的图片）  <br />
 ![](https://raw.githubusercontent.com/jiang111/awesome-androidstudio-plugins/master/images/AndroidDrawableImporter.png)
 
 ###26.permissions-dispatcher-plugin
 PermissionsDispatcher is wonderful library for Runtime Permissions
-![](https://github.com/shiraji/permissions-dispatcher-plugin/raw/master/website/images/pd.gif)
+![](https://github.com/shiraji/permissions-dispatcher-plugin/raw/master/website/images/pd.gif) <br />
 https://github.com/shiraji/permissions-dispatcher-plugin
 
 ###27.ECTranslation
 Android Studio 翻译插件,可以将英文翻译为中文.
-![](https://github.com/Skykai521/ECTranslation/raw/master/img/translation_img.png)
+![](https://github.com/Skykai521/ECTranslation/raw/master/img/translation_img.png) <br />
 https://github.com/Skykai521/ECTranslation
 
 ### 28.eventbus3-intellij-plugin
 在订阅者和post的代码之间切换 <br />
-项目地址: https://github.com/kgmyshin/eventbus3-intellij-plugin  <br />
+项目地址: https://github.com/kgmyshin/eventbus3-intellij-plugin  <br /> 
 ![](https://raw.githubusercontent.com/kgmyshin/eventbus3-intellij-plugin/master/art/cap.gif)
 
 ### 29.jetbrains-wakatime
 记录你在IDE上的工作时间
-![](https://camo.githubusercontent.com/0263e365a2efdb5dc0adb4b7aba6a783bc17a92e/68747470733a2f2f77616b6174696d652e636f6d2f7374617469632f696d672f53637265656e53686f74732f53637265656e2d53686f742d323031362d30332d32312e706e67)
+![](https://camo.githubusercontent.com/0263e365a2efdb5dc0adb4b7aba6a783bc17a92e/68747470733a2f2f77616b6174696d652e636f6d2f7374617469632f696d672f53637265656e53686f74732f53637265656e2d53686f742d323031362d30332d32312e706e67) <br />
 https://github.com/wakatime/jetbrains-wakatime
 
 ###30.Genymotion
-这个就不用说了吧。
-https://www.genymotion.com/
+这个就不用说了吧。 <br />
+https://www.genymotion.com/ 
 
 ###31.Robotium Recorder
-Robotium 自动化测试脚本录制工具
+Robotium 自动化测试脚本录制工具 <br />
 http://robotium.com/
 
 ###32.AndroidWiFiADB
-可以通过这个插件来达到无线调试应用的目的，摆脱数据线
+可以通过这个插件来达到无线调试应用的目的，摆脱数据线 <br />
 https://github.com/pedrovgs/AndroidWiFiADB
 
 ###33.EventBus 导航插件
-![](https://raw.githubusercontent.com/kgmyshin/eventbus-intellij-plugin/master/art/cap.gif)
+![](https://raw.githubusercontent.com/kgmyshin/eventbus-intellij-plugin/master/art/cap.gif) <br />
 https://github.com/kgmyshin/eventbus-intellij-plugin
 
 ###34.GenerateSerialVersionUID
@@ -148,12 +148,12 @@ https://github.com/kgmyshin/eventbus-intellij-plugin
 
 ###35.GradleDependenciesHelperPlugin
 maven gradle 依赖支持自动补全
-![](https://camo.githubusercontent.com/d9b1b39eda21e0e33b656e2821f01897d915f7c5/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f2d51364e7970315864594c772f556a73325a5175666634492f414141414141414144624d2f624d704c516742664d6b632f773538372d683330392d6e6f2f696465615f677261646c655f706c7567696e2e706e67)
+![](https://camo.githubusercontent.com/d9b1b39eda21e0e33b656e2821f01897d915f7c5/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f2d51364e7970315864594c772f556a73325a5175666634492f414141414141414144624d2f624d704c516742664d6b632f773538372d683330392d6e6f2f696465615f677261646c655f706c7567696e2e706e67) <br />
 https://github.com/ligi/GradleDependenciesHelperPlugin
 
 ###36.AndroidProguardPlugin
 一键生成项目混淆代码插件，值得你安装~(不过目前可能有些第三方项目的混淆还未添加完全)
-![](https://camo.githubusercontent.com/adef227c0dc014f53b6e2a46977ef9ff2ceeb5a4/687474703a2f2f3778726e6b6f2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f616e64726f696470726f6775617264312e676966)
+![](https://camo.githubusercontent.com/adef227c0dc014f53b6e2a46977ef9ff2ceeb5a4/687474703a2f2f3778726e6b6f2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f616e64726f696470726f6775617264312e676966)  <br />
 https://github.com/zhonghanwen/AndroidProguardPlugin
 
 
