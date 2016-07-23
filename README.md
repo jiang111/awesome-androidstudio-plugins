@@ -156,7 +156,11 @@ https://github.com/ligi/GradleDependenciesHelperPlugin
 ![](https://camo.githubusercontent.com/adef227c0dc014f53b6e2a46977ef9ff2ceeb5a4/687474703a2f2f3778726e6b6f2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f616e64726f696470726f6775617264312e676966)  <br />
 https://github.com/zhonghanwen/AndroidProguardPlugin
 
-
+###37.Git Flow Integration
+An intelliJ plugin providing a UI layer for git-flow, which in itself is a collection of Git extensions to provide high-level repository operations for Vincent [Driessen's branching model](http://nvie.com/git-model).  
+gitflow分支模型辅助插件
+gitflow分支模型参考[git-flow 备忘清单](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html)  
+![screenshot](http://opherv.github.io/gitflow4idea/images/gitflow.jpg)  
 ###摘自：(部分地址)
 >* http://www.jianshu.com/p/6f5f818afe4b
 >* http://www.codeceo.com/article/8-android-studio-plugins.html
