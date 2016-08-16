@@ -161,16 +161,17 @@ An intelliJ plugin providing a UI layer for git-flow, which in itself is a colle
 gitflow分支模型辅助插件
 gitflow分支模型参考[git-flow 备忘清单](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html)  
 ![screenshot](http://opherv.github.io/gitflow4idea/images/gitflow.jpg)  
+
+###38.android-strings-search-plugin
+这个插件可以很容易地在字符串资源搜索文本。 <br />
+![](https://github.com/konifar/android-strings-search-plugin/raw/master/art/demo.gif)
+
 ###摘自：(部分地址)
 >* http://www.jianshu.com/p/6f5f818afe4b
 >* http://www.codeceo.com/article/8-android-studio-plugins.html
 >* http://blog.csdn.net/tikitoo/article/details/51089422
 >* https://segmentfault.com/a/1190000005092842?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
 >* https://ydmmocoo.github.io/2016/06/28/Android-Studio%E6%8F%92%E4%BB%B6%E6%95%B4%E7%90%86/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
-
-###个人微信公众号:
-微信号:androidesigner <br />
-![](https://raw.githubusercontent.com/jiang111/wechat_article/master/qrcode.jpg)
 
 
 ###推荐
