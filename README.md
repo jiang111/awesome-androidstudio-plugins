@@ -147,7 +147,7 @@ https://github.com/kgmyshin/eventbus-intellij-plugin
 实现Serializable序列化bean
 
 ###35.GradleDependenciesHelperPlugin
-maven gradle 依赖支持自动补全
+maven gradle 依赖支持自动补全 <br />
 ![](https://camo.githubusercontent.com/d9b1b39eda21e0e33b656e2821f01897d915f7c5/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f2d51364e7970315864594c772f556a73325a5175666634492f414141414141414144624d2f624d704c516742664d6b632f773538372d683330392d6e6f2f696465615f677261646c655f706c7567696e2e706e67) <br />
 https://github.com/ligi/GradleDependenciesHelperPlugin
 
