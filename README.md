@@ -15,7 +15,6 @@
 * [AndroidAccessors](#9)<br />
 * [Lifecycle Sorter](#10)<br />
 * [JsonOnlineViewer](#11)<br />
-* [CodeGlance](#12)<br />
 * [Android Studio Prettify](#13)<br />
 * [Android Parcelable code generator](#14)<br />
 * [Android Code Generator Plugin](#15)<br />
@@ -43,6 +42,8 @@
 * [AndroidProguardPlugin](#37)<br />
 * [android-strings-search-plugin](#38)<br />
 
+##【详情】
+----
 
 <h3 name="1">android-butterknife-zeleznyandroid-butterknife-zelezny</h3> 
 是根据butterknife定制的一款插件，能够方便快速初始化，对于我来说是开发必备
@@ -94,10 +95,6 @@ Strings-xml-tools是一个虽小但很有用的插件，可以用来管理Androi
 <h3 name="11">JsonOnlineViewer</h3> 
 可实现直接在android studio中调试接口数据，可以选择请求类型，自定义请求头及请求体，json数据格式化后展示，配合着Gsonformat会不会不错呢？
 ![](http://upload-images.jianshu.io/upload_images/697635-d4d34d5d6cc4163d.gif?imageMogr2/auto-orient/strip)
-
-<h3 name="12">CodeGlance</h3> 
-可用于快速定位代码，看到许多编辑器都有这功能，就到想到android Studio找了下，还真找到了
-![](http://upload-images.jianshu.io/upload_images/697635-0450282604ad3e48.gif?imageMogr2/auto-orient/strip)
 
 <h3 name="13">Android Studio Prettify</h3> 
 帮助自定完成fnidviewbyid的操作。
