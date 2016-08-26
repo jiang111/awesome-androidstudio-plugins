@@ -190,9 +190,9 @@ https://github.com/pedrovgs/AndroidWiFiADB
 实现Serializable序列化bean
 
 <h3 name="35">GradleDependenciesHelperPlugin</h3> 
-maven gradle 依赖支持自动补全 <br />
+maven gradle 依赖支持自动补全  [项目地址](https://github.com/ligi/GradleDependenciesHelperPlugin)<br /><br />
 ![](https://camo.githubusercontent.com/d9b1b39eda21e0e33b656e2821f01897d915f7c5/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f2d51364e7970315864594c772f556a73325a5175666634492f414141414141414144624d2f624d704c516742664d6b632f773538372d683330392d6e6f2f696465615f677261646c655f706c7567696e2e706e67) <br />
-https://github.com/ligi/GradleDependenciesHelperPlugin
+
 
 <h3 name="36">AndroidProguardPlugin</h3> 
 一键生成项目混淆代码插件，值得你安装~(不过目前可能有些第三方项目的混淆还未添加完全)
