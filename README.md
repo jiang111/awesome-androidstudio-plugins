@@ -195,9 +195,9 @@ maven gradle 依赖支持自动补全  [项目地址](https://github.com/ligi/Gr
 
 
 <h3 name="36">AndroidProguardPlugin</h3> 
-一键生成项目混淆代码插件，值得你安装~(不过目前可能有些第三方项目的混淆还未添加完全)
+一键生成项目混淆代码插件，值得你安装~(不过目前可能有些第三方项目的混淆还未添加完全) [项目地址](https://github.com/zhonghanwen/AndroidProguardPlugin) <br /><br />
 ![](https://camo.githubusercontent.com/adef227c0dc014f53b6e2a46977ef9ff2ceeb5a4/687474703a2f2f3778726e6b6f2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f616e64726f696470726f6775617264312e676966)  <br />
-https://github.com/zhonghanwen/AndroidProguardPlugin
+
 
 <h3 name="37">Git Flow Integration</h3> 
 An intelliJ plugin providing a UI layer for git-flow, which in itself is a collection of Git extensions to provide high-level repository operations for Vincent [Driessen's branching model](http://nvie.com/git-model).  
@@ -230,8 +230,6 @@ gitflow分支模型参考[git-flow 备忘清单](http://danielkummer.github.io/g
 * 通过RecyclerView实现的联系人: https://github.com/jiang111/IndexRecyclerView
 * 用于学习RxJava操作符的APP: https://github.com/jiang111/RxJavaApp
 * 展示注册进度的view: https://github.com/jiang111/ProgressView
-* 可定制的ViewPagerIndicator: https://github.com/jiang111/ScalableTabIndicator
-* 通过viewpager的滑动来对fragment内的元素进行动画操作: https://github.com/jiang111/ViewPagerTransformer
 
 
 ### License
