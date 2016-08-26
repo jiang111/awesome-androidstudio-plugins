@@ -128,8 +128,8 @@ github项目地址: https://github.com/vsch/idea-multimarkdown/wiki
 ![](https://github.com/vsch/idea-multimarkdown/raw/master/assets/images/ScreenShot_preview.png)
 
 <h3 name="21">FindViewByMe</h3> 
-FindViewByMe是一个自动生成FindViewById代码的IDEA/Android Studio插件，支持Activity、Fragment和ViewHolder中的findViewById的代码生成。
-项目地址:https://github.com/laobie/FindViewByMe
+FindViewByMe是一个自动生成FindViewById代码的IDEA/Android Studio插件，支持Activity、Fragment和ViewHolder中的findViewById的代码生成。<br />
+[项目地址](https://github.com/laobie/FindViewByMe) 
 
 <h3 name="22">CodeGlance</h3> 
 可用于快速定位代码 <br />
@@ -149,13 +149,15 @@ FindViewByMe是一个自动生成FindViewById代码的IDEA/Android Studio插件�
 
 <h3 name="26">permissions-dispatcher-plugin</h3> 
 PermissionsDispatcher is wonderful library for Runtime Permissions
+[项目地址](https://github.com/shiraji/permissions-dispatcher-plugin) <br />  <br /> 
 ![](https://github.com/shiraji/permissions-dispatcher-plugin/raw/master/website/images/pd.gif) <br />
-https://github.com/shiraji/permissions-dispatcher-plugin
+
 
 <h3 name="27">ECTranslation</h3> 
 Android Studio 翻译插件,可以将英文翻译为中文.
+[项目地址](https://github.com/Skykai521/ECTranslation) <br />  <br /> 
 ![](https://github.com/Skykai521/ECTranslation/raw/master/img/translation_img.png) <br />
-https://github.com/Skykai521/ECTranslation
+
 
 <h3 name="28">eventbus3-intellij-plugin</h3> 
 在订阅者和post的代码之间切换 <br />
@@ -180,8 +182,9 @@ http://robotium.com/
 https://github.com/pedrovgs/AndroidWiFiADB
 
 <h3 name="33">EventBus 导航插件</h3> 
+[项目地址](https://github.com/kgmyshin/eventbus-intellij-plugin) <br /><br />
 ![](https://raw.githubusercontent.com/kgmyshin/eventbus-intellij-plugin/master/art/cap.gif) <br />
-https://github.com/kgmyshin/eventbus-intellij-plugin
+
 
 <h3 name="34">GenerateSerialVersionUID</h3>
 实现Serializable序列化bean
@@ -208,13 +211,13 @@ gitflow分支模型参考[git-flow 备忘清单](http://danielkummer.github.io/g
 
 <h3 name="39">AndroidLocalizationer</h3> 
 自动翻译string.xml资源文件至特定语言。 <br />
-[项目地址](https://github.com/westlinkin/AndroidLocalizationer) <br />
+[项目地址](https://github.com/westlinkin/AndroidLocalizationer) <br /><br />
 ![](https://raw.githubusercontent.com/westlinkin/AndroidLocalizationer/master/screen_shot_2.png) <br />
 
 
 <h3 name="40">MVPHelper</h3> 
 一款Intellj IDEA 和Android Studio 自动生成MVP模式所需接口以及实现类的插件 <br />
-[项目地址](https://github.com/githubwing/MVPHelper) <br />
+[项目地址](https://github.com/githubwing/MVPHelper) <br /><br />
 ![](https://github.com/githubwing/MVPHelper/raw/master/img/mvp_presenter.gif) <br />
 
 
