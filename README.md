@@ -42,9 +42,10 @@
 * [Git Flow Integration](#37)<br />
 * [android-strings-search-plugin](#38)<br />
 * [AndroidLocalizationer] (#39) <br />
+
+
 ##【详情】
 ----
-
 <h3 name="1">android-butterknife-zeleznyandroid-butterknife-zelezny</h3> 
 是根据butterknife定制的一款插件，能够方便快速初始化，对于我来说是开发必备
 ![butter knife](http://upload-images.jianshu.io/upload_images/697635-94ed27edf930afce?imageMogr2/auto-orient/strip)
