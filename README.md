@@ -160,8 +160,8 @@ Android Studio 翻译插件,可以将英文翻译为中文.
 
 
 <h3 name="28">eventbus3-intellij-plugin</h3> 
-在订阅者和post的代码之间切换 <br />
-项目地址: https://github.com/kgmyshin/eventbus3-intellij-plugin  <br /> 
+在订阅者和post的代码之间切换 
+[项目地址](https://github.com/kgmyshin/eventbus3-intellij-plugin)  <br /><br /> 
 ![](https://raw.githubusercontent.com/kgmyshin/eventbus3-intellij-plugin/master/art/cap.gif)
 
 <h3 name="29">jetbrains-wakatime</h3> 
@@ -210,13 +210,13 @@ gitflow分支模型参考[git-flow 备忘清单](http://danielkummer.github.io/g
 ![](https://github.com/konifar/android-strings-search-plugin/raw/master/art/demo.gif)
 
 <h3 name="39">AndroidLocalizationer</h3> 
-自动翻译string.xml资源文件至特定语言。 <br />
+自动翻译string.xml资源文件至特定语言。 
 [项目地址](https://github.com/westlinkin/AndroidLocalizationer) <br /><br />
 ![](https://raw.githubusercontent.com/westlinkin/AndroidLocalizationer/master/screen_shot_2.png) <br />
 
 
 <h3 name="40">MVPHelper</h3> 
-一款Intellj IDEA 和Android Studio 自动生成MVP模式所需接口以及实现类的插件 <br />
+一款Intellj IDEA 和Android Studio 自动生成MVP模式所需接口以及实现类的插件 
 [项目地址](https://github.com/githubwing/MVPHelper) <br /><br />
 ![](https://github.com/githubwing/MVPHelper/raw/master/img/mvp_presenter.gif) <br />
 
