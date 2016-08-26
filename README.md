@@ -41,8 +41,8 @@
 * [AndroidProguardPlugin](#36)<br />
 * [Git Flow Integration](#37)<br />
 * [android-strings-search-plugin](#38)<br />
-* [AndroidLocalizationer] (#39) <br />
-
+* [AndroidLocalizationer](#39) <br />
+* [MVPHelper](#40) <br />
 
 ##【详情】
 ----
@@ -212,6 +212,11 @@ gitflow分支模型参考[git-flow 备忘清单](http://danielkummer.github.io/g
 [项目地址](https://github.com/westlinkin/AndroidLocalizationer) <br />
 ![](https://raw.githubusercontent.com/westlinkin/AndroidLocalizationer/master/screen_shot_2.png) <br />
 
+
+<h3 name="40">MVPHelper</h3> 
+一款Intellj IDEA 和Android Studio 自动生成MVP模式所需接口以及实现类的插件 <br />
+[项目地址](https://github.com/githubwing/MVPHelper) <br />
+![](https://github.com/githubwing/MVPHelper/raw/master/img/mvp_presenter.gif) <br />
 
 
 
