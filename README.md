@@ -39,9 +39,9 @@
 * [GenerateSerialVersionUID](#34)<br />
 * [GradleDependenciesHelperPlugin](#35)<br />
 * [AndroidProguardPlugin](#36)<br />
-* [AndroidProguardPlugin](#37)<br />
+* [Git Flow Integration](#37)<br />
 * [android-strings-search-plugin](#38)<br />
-
+* [AndroidLocalizationer] (#39) <br />
 ##【详情】
 ----
 
@@ -206,12 +206,13 @@ gitflow分支模型参考[git-flow 备忘清单](http://danielkummer.github.io/g
 这个插件可以很容易地在字符串资源搜索文本。 <br />
 ![](https://github.com/konifar/android-strings-search-plugin/raw/master/art/demo.gif)
 
-###摘自：(部分地址)
-* http://www.jianshu.com/p/6f5f818afe4b
-* http://www.codeceo.com/article/8-android-studio-plugins.html
-* http://blog.csdn.net/tikitoo/article/details/51089422
-* https://segmentfault.com/a/1190000005092842?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
-* https://ydmmocoo.github.io/2016/06/28/Android-Studio%E6%8F%92%E4%BB%B6%E6%95%B4%E7%90%86/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
+<h3 name="39">AndroidLocalizationer</h3> 
+自动翻译string.xml资源文件至特定语言。 <br />
+[项目地址](https://github.com/westlinkin/AndroidLocalizationer) <br />
+![](https://raw.githubusercontent.com/westlinkin/AndroidLocalizationer/master/screen_shot_2.png) <br />
+
+
+
 
 
 ###推荐
