@@ -3,6 +3,7 @@
 
 ##【目录】
 ----
+* [Exynap](#0) <br />
 * [android-butterknife-zeleznyandroid-butterknife-zelezny](#1) <br />
 * [Android Drawable Importer](#2)<br />
 * [Android Holo Colors Generator](#3)<br />
@@ -45,6 +46,11 @@
 
 ##【详情】
 ----
+
+<h3 name="0">Exynap</h3> 
+Effortless Android Development [官网地址](http://exynap.com/) <br />
+![Effortless Android Development](https://github.com/jiang111/awesome-androidstudio-plugins/blob/master/images/exynap.gif)
+
 <h3 name="1">android-butterknife-zeleznyandroid-butterknife-zelezny</h3> 
 是根据butterknife定制的一款插件，能够方便快速初始化，对于我来说是开发必备
 ![butter knife](http://upload-images.jianshu.io/upload_images/697635-94ed27edf930afce?imageMogr2/auto-orient/strip)
