@@ -8,7 +8,7 @@
 * [Android Drawable Importer](#2)<br />
 * [Android Holo Colors Generator](#3)<br />
 * [Robotium Recorder](#4)<br />
-* [jimu Mirror](#5)<br />
+* [jimu Mirror(需付费)](#5)<br />
 * [Strings-xml-tools](#6)<br />
 * [Gsonformat](#7)<br />
 * [Android Postfix Completion](#8)<br />
@@ -71,7 +71,7 @@ Robotium Recorder能让你看到当你的应用程序运行在设备上时，它
 下面是一个例子，是我的应用程序使用Robotium Recorder时的样子：
 ![](http://static.codeceo.com/images/2015/06/96f88230aa7652387300d07e04abee4f1.jpg)
 
-<h3 name="5">jimu Mirror</h3> 
+<h3 name="5">jimu Mirror(需付费)</h3> 
 Android Studio配备了一个可视化的布局编辑器。但是一个静态的布局预览有时候对于开发人员而言可能还不够，因为静态预览不能预览动画、颜色和触摸区域，所以jimu Mirror来了，这是一个可以让你在真实的设备上迅速测试布局的插件。jimu Mirror允许在设备上预览随同编码更新的Android布局。
 安装jimu Mirror：
 ![](http://static.codeceo.com/images/2015/06/jimu-Mirror.gif)
