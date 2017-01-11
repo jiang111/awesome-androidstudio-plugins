@@ -43,6 +43,7 @@
 * [android-strings-search-plugin](#38)<br />
 * [AndroidLocalizationer](#39) <br />
 * [MVPHelper](#40) <br />
+* [ApkMultiChannelPlugin(多渠道打包)](#41) <br />
 
 ##【详情】
 ----
@@ -225,6 +226,11 @@ gitflow分支模型参考[git-flow 备忘清单](http://danielkummer.github.io/g
 一款Intellj IDEA 和Android Studio 自动生成MVP模式所需接口以及实现类的插件 
 [项目地址](https://github.com/githubwing/MVPHelper) <br /><br />
 ![](https://github.com/githubwing/MVPHelper/raw/master/img/mvp_presenter.gif) <br />
+
+<h3 name="41">ApkMultiChannelPlugin</h3> 
+Android 多渠道打包的 Android Studio / IDEA 插件
+[项目地址](https://github.com/nukc/ApkMultiChannelPlugin) <br /><br />
+![](https://raw.githubusercontent.com/nukc/ApkMultiChannelPlugin/master/art/choose-apk.png) <br />
 
 
 
