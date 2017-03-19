@@ -232,16 +232,9 @@ Android 多渠道打包的 Android Studio / IDEA 插件
 [项目地址](https://github.com/nukc/ApkMultiChannelPlugin) <br /><br />
 ![](https://raw.githubusercontent.com/nukc/ApkMultiChannelPlugin/master/art/choose-apk.png) <br />
 
-
-
-
-###推荐
-* 收集Android你不知道的那些小技巧:https://github.com/jiang111/awesome-android-tips
-* 收集Android studio 常用的插件,请看这里:https://github.com/jiang111/awesome-androidstudio-plugins
-* 收集程序员必备的那些Chrome插件: https://github.com/jiang111/chrome-plugin-recommand
-* 通过RecyclerView实现的联系人: https://github.com/jiang111/IndexRecyclerView
-* 用于学习RxJava操作符的APP: https://github.com/jiang111/RxJavaApp
-* 展示注册进度的view: https://github.com/jiang111/ProgressView
+### 捐赠
+如果您觉得本项目对您有帮助，欢迎请作者一杯咖啡 <br /><br />
+![](https://raw.githubusercontent.com/jiang111/RxJavaApp/master/qrcode/wechat_alipay.png)
 
 
 ### License
