@@ -1,7 +1,7 @@
 # 收集Android studio 常用的插件
 
 
-##【目录】
+## 【目录】
 ----
 * [Exynap](#0) <br />
 * [android-butterknife-zeleznyandroid-butterknife-zelezny](#1) <br />
@@ -45,7 +45,7 @@
 * [MVPHelper](#40) <br />
 * [ApkMultiChannelPlugin(多渠道打包)](#41) <br />
 
-##【详情】
+## 【详情】
 ----
 
 <h3 name="0">Exynap</h3> 
