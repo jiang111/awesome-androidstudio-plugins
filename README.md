@@ -91,7 +91,9 @@ Strings-xml-tools是一个虽小但很有用的插件，可以用来管理Androi
 
 <h3 name="7">Gsonformat</h3> 
 可根据json数据快速生成java实体类
+
 ![](http://upload-images.jianshu.io/upload_images/697635-5a07f838223baaae.gif?imageMogr2/auto-orient/strip)
+
 ![](http://upload-images.jianshu.io/upload_images/697635-d92e0dbd37edb00c.gif?imageMogr2/auto-orient/strip)
 
 <h3 name="8">Android Postfix Completion</h3> 
@@ -128,6 +130,7 @@ Strings-xml-tools是一个虽小但很有用的插件，可以用来管理Androi
 
 <h3 name="15">Android Code Generator Plugin</h3> 
 自动生成findViewById
+
 ![](https://github.com/jiang111/awesome-androidstudio-plugins/blob/master/images/Code%20Generator/Code%20Generator%20Plugin.gif)
 
 <h3 name="16">Adb Idea</h3> 
@@ -179,6 +182,7 @@ FindViewByMe是一个自动生成FindViewById代码的IDEA/Android Studio插件�
 <h3 name="26">permissions-dispatcher-plugin</h3> 
 PermissionsDispatcher is wonderful library for Runtime Permissions
 [项目地址](https://github.com/shiraji/permissions-dispatcher-plugin) <br />  <br /> 
+
 ![](https://github.com/shiraji/permissions-dispatcher-plugin/raw/master/website/images/pd.gif) <br />
 
 
@@ -199,6 +203,7 @@ Android Studio 翻译插件,可以将英文翻译为中文.
 记录你在IDE上的工作时间
 
 ![](https://camo.githubusercontent.com/0263e365a2efdb5dc0adb4b7aba6a783bc17a92e/68747470733a2f2f77616b6174696d652e636f6d2f7374617469632f696d672f53637265656e53686f74732f53637265656e2d53686f742d323031362d30332d32312e706e67) <br />
+
 https://github.com/wakatime/jetbrains-wakatime
 
 <h3 name="30">Genymotion</h3> 
