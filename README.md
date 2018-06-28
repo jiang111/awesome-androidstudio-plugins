@@ -44,6 +44,7 @@
 * [AndroidLocalizationer](#39) <br />
 * [MVPHelper](#40) <br />
 * [ApkMultiChannelPlugin(多渠道打包)](#41) <br />
+* [LayoutMaster(ui debugging)](#42) <br />
 
 ## 【详情】
 ----
@@ -269,6 +270,12 @@ Android 多渠道打包的 Android Studio / IDEA 插件
 [项目地址](https://github.com/nukc/ApkMultiChannelPlugin) <br /><br />
 
 ![](https://raw.githubusercontent.com/nukc/ApkMultiChannelPlugin/master/art/choose-apk.png) <br />
+
+<h3 name="42">LayoutMaster</h3> 
+An Android Studio Plugin for ui debugging.
+[项目地址](https://github.com/wuapnjie/LayoutMaster) <br /><br />
+
+![](https://github.com/wuapnjie/LayoutMaster/raw/master/images/pic1.png) <br />
 
 ### 捐赠
 如果您觉得本项目对您有帮助，欢迎请作者一杯咖啡 <br /><br />
