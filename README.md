@@ -45,6 +45,7 @@
 * [MVPHelper](#40) <br />
 * [ApkMultiChannelPlugin(多渠道打包)](#41) <br />
 * [LayoutMaster(ui debugging)](#42) <br />
+* [IntelliJ-Key-Promoter-X](#43) <br />
 
 ## 【详情】
 ----
@@ -276,6 +277,14 @@ An Android Studio Plugin for ui debugging.
 [项目地址](https://github.com/wuapnjie/LayoutMaster) <br /><br />
 
 ![](https://github.com/wuapnjie/LayoutMaster/raw/master/images/pic1.png) <br />
+
+<h3 name="43">IntelliJ-Key-Promoter-X</h3> 
+Modern IntelliJ plugin to learn shortcuts for buttons
+[项目地址](https://github.com/halirutan/IntelliJ-Key-Promoter-X) <br /><br />
+
+![](https://camo.githubusercontent.com/c5696e472c432542417a8c0cb795524b572b1c56/687474703a2f2f692e696d6775722e636f6d2f327a42644d54382e676966) <br />
+
+
 
 ### 捐赠
 如果您觉得本项目对您有帮助，欢迎请作者一杯咖啡 <br /><br />
